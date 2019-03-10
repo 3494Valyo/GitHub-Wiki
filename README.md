@@ -1,5 +1,5 @@
-# GitHub
-
+# GitHub Start-up Guide
+###
 Here you will find information on what is GitHub and how to perform a few simple operations on it.
 
 My target audience are beginner GitHub users who may have little or no experience in such an environment.
