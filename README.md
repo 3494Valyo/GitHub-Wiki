@@ -1,7 +1,9 @@
-# GitHub Start-up Guide
+# GitHub wiki user guide
 ###
-Here you will find information on what is GitHub and how to perform a few simple operations in it.
+My deliverable is a user guide on GitHub including an explanation of what it is, as well as the first basic steps to get started.
 
-<b>My target audience are beginner GitHub users who may have little or no experience in such an environment.</b>
+<b>My target audience are beginning GitHub users who may have little or no experience with the software. I have used myself as the persona for this project. The user stories in this guide are based on my own user experiences as a beginner in GitHub. </b> 
 
-My deliverable is a start-up guide including a quick explanation of what is GitHub Wiki, as well as the first basic steps to get started.
+The focus of this guide is on GitHub as a technical writing tool.
+
+The purpose of this guide is to introduce GitHub to beginning users and to help them perform the first basic operations with it.
